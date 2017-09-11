@@ -16,7 +16,7 @@ You can use `gemoji-parser` on [es6 template literals](https://developer.mozilla
 ```js
   import gemoji from 'gemoji-parser'
 
-  gemoji`
+  const myGemojiLiteral = gemoji`
     foo :floppy_disk: bar :heart: bazz :+1:
   `
   // => `foo 💾 bar ❤️ bazz 👍🏽`

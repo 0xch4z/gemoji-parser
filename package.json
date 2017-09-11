@@ -11,9 +11,9 @@
   },
   "keywords": [
     "emoji",
-    "gitmoji",
+    "gemoji",
+    "github",        
     "parser",
-    "github",
     "tagged-template"
   ],
   "author": "Charles Kenney",
