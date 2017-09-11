@@ -1,0 +1,26 @@
+{
+  "name": "parse-gitmoji",
+  "version": "0.1.0",
+  "description": "A github emoji parser with syntactic sugar.",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src/ -d lib",
+    "clean": "rm -rf lib && mkdir lib",
+    "prebuild": "npm run clean",
+    "test": "ava"
+  },
+  "keywords": [
+    "emoji",
+    "gitmoji",
+    "parser",
+    "github",
+    "tagged-template"
+  ],
+  "author": "Charles Kenney",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.22.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
