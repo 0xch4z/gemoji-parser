@@ -1,5 +1,5 @@
 {
-  "name": "parse-gitmoji",
+  "name": "gemoji-parser",
   "version": "0.1.0",
   "description": "A github emoji parser with syntactic sugar.",
   "main": "lib/index.js",
