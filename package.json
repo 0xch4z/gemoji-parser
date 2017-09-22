@@ -1,6 +1,6 @@
 {
   "name": "gemoji-parser",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "description": "A github emoji parser with syntactic sugar.",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,6 @@
   "author": "Charles Kenney",
   "license": "MIT",
   "devDependencies": {
-    "ava": "^0.22.0",
+    "ava": "^0.22.0"
   }
 }
