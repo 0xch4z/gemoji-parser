@@ -1,5 +1,5 @@
 import test from 'ava';
-import gemoji from './lib';
+import gemoji from './';
 
 test('Parses emojis', t => {
   const i = gemoji`:pencil2:`

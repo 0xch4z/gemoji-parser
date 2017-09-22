@@ -2,11 +2,8 @@
   "name": "gemoji-parser",
   "version": "0.1.5",
   "description": "A github emoji parser with syntactic sugar.",
-  "main": "lib/index.js",
+  "main": "index.js",
   "scripts": {
-    "build": "babel src/ -d lib",
-    "clean": "rm -rf lib && mkdir lib",
-    "prebuild": "npm run clean",
     "test": "ava"
   },
   "keywords": [

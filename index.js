@@ -1,4 +1,4 @@
-import emojis from '../emojis.json'
+const emojis = require('./emojis.json')
 
 const emojiExp = /^:[a-z0-9-_+]+:/gi
 
