@@ -16,6 +16,6 @@
   "author": "Charles Kenney",
   "license": "MIT",
   "devDependencies": {
-    "ava": "^0.22.0"
+    "ava": "^1.4.1"
   }
 }
