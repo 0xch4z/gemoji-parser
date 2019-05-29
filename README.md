@@ -8,6 +8,8 @@
 
 ### Including gemoji
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Charliekenney23/gemoji-parser.svg)](https://greenkeeper.io/)
+
 To get started with `gemoji-parser`, install it via npm.
 
 ```bash
